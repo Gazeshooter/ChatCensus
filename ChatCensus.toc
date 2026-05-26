@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: ChatCensus
+## Notes: Counts unique names returned by /chatlist-style channel scans.
+## Author: Gazeshooter
+## Version: 0.1
+
+ChatCensus.lua
